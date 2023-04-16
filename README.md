@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeet139
+- 👋 Hi, I’m @CodingMaker
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Python
 - 📫 How to reach me : Ping me on Github
